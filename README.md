@@ -3,4 +3,5 @@ A comprehensive Bank Management System designed to streamline banking operations
 <br>
 * Developed a full-stack application simulationg core banking function like account.
 * Implemented authentication for seecure access and modularized the application using OOP principles.
+<br>
  Auther (sagar yadav)
